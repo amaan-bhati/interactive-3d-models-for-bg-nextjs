@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Main';
+    src: url('/fonts/OTYokai-Extrabold.otf');
+}
+
+body{
+    margin: 0px;
+    font-family: 'Main';
+}
+
